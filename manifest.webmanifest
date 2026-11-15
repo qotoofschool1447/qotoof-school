@@ -1,0 +1,10 @@
+{
+  "name": "مدارس قطوف الإيمان النموذجية للبنين",
+  "short_name": "قطوف الإيمان",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8f5",
+  "theme_color": "#174d3a"
+}
